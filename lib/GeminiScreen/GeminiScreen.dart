@@ -36,6 +36,13 @@ class _GeminiscreenState extends State<Geminiscreen> {
   Widget build(BuildContext context) {
     return Consumer(
       builder: (context, ThemeModel themeNotifier, child) {
+        // Define colors for light and dark modes
+        Color backgroundColor =
+            themeNotifier.isDark ? Colors.black : Colors.white;
+        Color userBubbleColor =
+            themeNotifier.isDark ? Colors.blueGrey : Colors.lightBlue;
+        Color aiBubbleColor =
+            themeNotifier.isDark ? Colors.grey[800]! : Colors.grey[100]!;
         return Scaffold(
           appBar: PreferredSize(
             preferredSize: const Size.fromHeight(60),
@@ -96,18 +103,22 @@ class _GeminiscreenState extends State<Geminiscreen> {
               ),
             ),
           ),
-          backgroundColor: Colors.white70,
-          body: _buildUI(),
+          backgroundColor: backgroundColor,
+          body: _buildUI(userBubbleColor, aiBubbleColor),
         );
       },
     );
   }
 
-  Widget _buildUI() {
+  Widget _buildUI(Color userBubbleColor, Color aiBubbleColor) {
     return DashChat(
       currentUser: currentUser,
       onSend: _sendMessage,
       messages: messages,
+      messageOptions: MessageOptions(
+        currentUserContainerColor: userBubbleColor,
+        containerColor: aiBubbleColor,
+      ),
     );
   }
 
