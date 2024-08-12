@@ -73,7 +73,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Feel free to customize it further according to your needs!
 
-## Screenshots
+## UserInterface:
 | ![1](https://github.com/user-attachments/assets/775e9ed3-9097-4bda-97d0-e9054a830c4a) | ![2](https://github.com/user-attachments/assets/5df8a9a5-21ff-47bd-8243-373f87c79e24) | ![3](https://github.com/user-attachments/assets/104e4570-74d5-496e-8043-aeb284a38e3a) | ![4](https://github.com/user-attachments/assets/108c52d8-dd44-4cb1-9b0c-2f641b4645a4) |
 |:---:|:---:|:---:|:---:|
 | ![5](https://github.com/user-attachments/assets/6ee31d88-9dff-4213-9d21-e262b76ff1f3) | ![6](https://github.com/user-attachments/assets/b7230d38-6c97-4bc6-b858-d48c4366c7b3) | ![7](https://github.com/user-attachments/assets/b615247a-2fd4-4b0d-b300-5c985ce8a9e7) | ![8](https://github.com/user-attachments/assets/ded821e1-5b03-4270-96c3-07e1f80670fd) |
