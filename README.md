@@ -72,3 +72,18 @@ For any questions or feedback, please reach out to us at [your.email@example.com
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 Feel free to customize it further according to your needs!
+
+## Screenshots
+![1](https://github.com/user-attachments/assets/79472e26-3acd-47b3-bf75-01f7![2](https://github.com/user-attachments/assets/5df8a9a5-21ff-47bd-8243-373f87c79e24)
+![3](https://github.com/user-attachments/assets/f0aa757e-bb97-4e7c-a45a-0c165!
+[4](https://github.com/user-attachments/assets/108c52d8-dd44-4cb1-9b0c-2f641b4645a4)
+a04923c)
+d86b24ce)
+![5](https://github.com/user-attachments/assets/6ee31d88-9dff-4213-9d21-e262b76ff1f3)
+![6](https://github.com/user-attachments/assets/b7230d38-6c97-4bc6-b858-d48c4366c7b3)
+![7](https://github.com/user-attachments/assets/b615247a-2fd4-4b0d-b300-5c985ce8a9e7)
+![8](https://github.com/user-attachments/assets/ded821e1-5b03-4270-96c3-07e1f80670fd)
+
+
+
+
